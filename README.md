@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @salehali22
-- 👀 I’m interested in front End developing
+- 👋 Hi, I’m Saleh Ali 
+- 👀 I’m interested in frontEnd developing
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate with people on projects
 - 📫 you can connect with me in linkedIn, https://www.linkedin.com/in/saleh-al-homeidy-34a025243/ 
