@@ -15,7 +15,7 @@
 
 ## 📚 Current Focus
 - Low-power embedded design  
-- Reliable PCB layout practices for industrial environments  
+- Reliable Electonics design practices for industrial environments  
 - Exploring opportunities in **electronics & automation**  
 
 ---
