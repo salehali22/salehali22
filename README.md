@@ -9,8 +9,7 @@
 ## 🔧 What I Work With
 - 🖥️ **Embedded Systems** – STM32, ARM Cortex-M, FreeRTOS  
 - 📡 **IoT & Connectivity** – Cellular (LTE-M/NB-IoT), LoRaWAN, MQTT/HTTP APIs  
-- ⚡ **Hardware Design** – Multi-layer PCB design (KiCad), JLCPCB manufacturing  
-
+- ⚡ **Hardware Design** – Multi-layer PCB design
 ---
 
 ## 📚 Current Focus
