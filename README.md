@@ -23,7 +23,7 @@
 ## 📫 Reach Me
 - GitHub: [salehali22](https://github.com/salehali22)  
 - LinkedIn: *([Saleh Alhomeidy](https://www.linkedin.com/in/saleh-al-homeidy/))*
-- Email: [Saleh](salehalhomeidy@gmail.com)
+- Email: salehalhomeidy@gmail.com
 
 ---
 
