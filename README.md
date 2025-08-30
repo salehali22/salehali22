@@ -16,7 +16,7 @@
 ## 📚 Current Focus
 - Low-power embedded design  
 - Reliable PCB layout practices for industrial environments  
-- Exploring MSc opportunities in **electronics & automation**  
+- Exploring opportunities in **electronics & automation**  
 
 ---
 
