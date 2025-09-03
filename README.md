@@ -1,34 +1,28 @@
-# 👋 Hi, I'm Saleh  
+# Hi, I'm Saleh
 
-🎓 Final-year **Electrical & Electronic Engineering** student  
-⚡ Interested in **embedded systems, IoT, and power electronics**  
-📡 Working with **STM32 MCUs, LTE/LoRaWAN connectivity, and industrial control**  
+I am a final-year Electrical & Electronic Engineering student with a strong interest in both hardware and software design.  
+My focus lies in embedded systems, IoT, and power electronics, with hands-on experience in STM32 microcontrollers, multi-layer PCB design, and industrial automation.  
 
----
-
-## 🔧 What I Work With
-- 🖥️ **Embedded Systems** – STM32, ARM Cortex-M, FreeRTOS  
-- 📡 **IoT & Connectivity** – Cellular (LTE-M/NB-IoT), LoRaWAN, MQTT/HTTP APIs  
-- ⚡ **Hardware Design** – Multi-layer PCB design
----
-
-## 📚 Current Focus
-- Low-power embedded design  
-- Reliable Electonics design practices for industrial environments  
-- Exploring opportunities in **electronics & automation**  
+I enjoy bridging hardware and software to create reliable, real-world systems. Beyond engineering, I have a deep passion for electronics as a whole and a strong personal interest in aviation.
 
 ---
 
-## 📫 Reach Me
+## Areas of Work
+- Embedded Systems: STM32, ARM Cortex-M, FreeRTOS  
+- IoT & Connectivity: Cellular (LTE-M/NB-IoT), LoRaWAN, MQTT/HTTP APIs  
+- Hardware Design: Multi-layer PCB design, power systems, industrial electronics  
+- Software: C/C++ for embedded systems, firmware architecture  
+
+---
+
+## Current Focus
+- Low-power embedded system design  
+- Reliable electronics design practices for industrial environments  
+- Exploring opportunities in electronics, automation, and aviation-related technologies  
+
+---
+
+## Contact
 - GitHub: [salehali22](https://github.com/salehali22)  
-- LinkedIn: *([Saleh Alhomeidy](https://www.linkedin.com/in/saleh-al-homeidy/))*
-- Email: salehalhomeidy@gmail.com
-
----
-
-⭐ *“Engineering is turning ideas into reality with precision and patience.”*
-
-<!---
-salehali22/salehali22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- LinkedIn: [Saleh Alhomeidy](https://www.linkedin.com/in/saleh-al-homeidy/)  
+- Email: salehalhomeidy@gmail.com  
