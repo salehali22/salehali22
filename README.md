@@ -100,8 +100,8 @@ Interested in embedded systems, power electronics, IoT, and aviation.
 
 ### Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
