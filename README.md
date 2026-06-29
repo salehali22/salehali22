@@ -33,19 +33,34 @@ Interested in embedded systems, power electronics, IoT, and aviation.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **Hardware Design**
 
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-900028?style=flat-square)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white)
 ![JLCPCB](https://img.shields.io/badge/JLCPCB-0066CC?style=flat-square)
 
-**Connectivity and Protocols**
+**Industrial Protocols**
 
+![Modbus](https://img.shields.io/badge/Modbus_RTU/TCP-FF9900?style=flat-square)
+![BACnet](https://img.shields.io/badge/BACnet-006633?style=flat-square)
+![KNX](https://img.shields.io/badge/KNX-E5007D?style=flat-square)
+![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6600?style=flat-square)
+![RS-485](https://img.shields.io/badge/RS--485-555555?style=flat-square)
+
+**Connectivity**
+
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C2D72?style=flat-square)
+![LTE](https://img.shields.io/badge/LTE--M/NB--IoT-0082C9?style=flat-square)
+![Cellular](https://img.shields.io/badge/Cellular_AT-333333?style=flat-square)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![MAVLink](https://img.shields.io/badge/MAVLink-3C873A?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C2D72?style=flat-square)
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF9900?style=flat-square)
+![HTTP](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 **Tools**
 
