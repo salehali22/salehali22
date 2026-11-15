@@ -1,91 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:0f766e,100:14b8a6&text=Saleh%20Alhomeidy&fontSize=48&fontColor=ffffff&animation=fadeIn&stroke=14b8a6&strokeWidth=1&desc=Embedded%20Systems%20%7C%20Hardware%20Design%20%7C%20Real-World%20Engineering&descSize=17&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0b0f14,100:1e293b&text=Saleh%20Alhomeidy&fontSize=40&fontColor=e2e8f0&fontAlignY=45&animation=fadeIn&desc=Embedded%20Systems%20%C2%B7%20Hardware%20Design%20%C2%B7%20Industrial%20IoT&descSize=15&descAlignY=75&descColor=94a3b8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=STM32+Firmware+%E2%80%A2+PCB+Design+%E2%80%A2+Industrial+IoT;Flight+Controllers+%E2%80%A2+Sensors+%E2%80%A2+Automation;Hardware+%2B+Firmware+%2B+Real-World+Systems" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://www.upwork.com/freelancers/~016515e1527d1b1c98?viewMode=1">
-  <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/saleh-al-homeidy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Saleh%20Alhomeidy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:salehalhomeidy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=64748B&center=true&vCenter=true&width=600&lines=LoRaWAN+sensor+networks+in+production;Multilayer+PCB+design+to+fabrication;Low-power+C+%2F+FreeRTOS+firmware" alt="focus"/>
 
 </div>
 
 <br/>
 
----
+Embedded systems and hardware engineering student at **JUNIA ISEN** (Lille). Previously Hardware Engineer at **eBuilding.ge**, where I designed and deployed production hardware for LoRaWAN sensor networks, building automation and energy monitoring.
 
-### Engineering Snapshot
-
-```yaml
-role: Embedded Systems & Hardware Engineer
-focus: STM32 firmware, PCB design, sensors, industrial communication
-domains: UAV electronics, IoT, automation, aviation systems
-approach: hardware-first, clean documentation, practical engineering
-```
+Seeking an **internship (stage) from May 2027** in embedded systems, hardware design or aerospace.
 
 ---
 
-### Core Stack
+### Selected work
 
-<div align="center">
+**Industrial water-pump monitoring controller** · deployed on 5 sites
+Full ownership from schematic and simulation to multilayer PCB and fabrication: power stage, DC-DC converter, gate drivers, LTE telemetry.
+Low-power C / FreeRTOS firmware (interrupts, DMA) cut idle current from ~80 mA to 10 mA. Second hardware revision cut manufacturing cost from $33 to $7 per 5 boards.
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/CAN%20Bus-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/RS--485-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Modbus-FF9900?style=flat-square"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+**LoRaWAN sensor networks** · 100+ nodes in production
+Gas-meter network of 50+ meters on the public Helium network, ~85% uplink delivery after signal-driven sensor and antenna placement. Automated test flows with ChirpStack and Node-RED; missed-uplink prediction that eliminated ~3 cold-chain sensor failures per month.
 
-</div>
+**Building automation**
+KNX lighting and scene programming with power budgeting (~15% energy reduction at a resort spa). Schneider Electric EcoStruxure server configuration and controller tuning for an office building.
 
----
+**Aerial mapping companion board** · [repo](https://github.com/salehali22/AMS-Showcase)
+Camera, LiDAR and LTE board linked to the flight controller; every frame tagged with GPS position, LiDAR range and flight data.
 
-### Featured Work
-
-<div align="center">
-
-<a href="https://github.com/salehali22/Flight-Controller">
-  <img src="https://img.shields.io/badge/Flight%20Controller-STM32H7%20UAV%20Hardware-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/salehali22/AMS-Showcase">
-  <img src="https://img.shields.io/badge/AMS%20Showcase-UAV%20Avionics-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/salehali22/ICU-Showcase">
-  <img src="https://img.shields.io/badge/ICU%20Showcase-Industrial%20Control-64748B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+**Flight controller** · [repo](https://github.com/salehali22/Flight-Controller)
+Open hardware running INAV, Betaflight and ArduPilot; CAN bus, USB-C and SWD flashing, custom firmware targets.
 
 ---
 
-### What I Build
+### Tools
+
+`C` · `C++` · `FreeRTOS` · `Rust (learning)` · `Linux` · `Altium Designer` · `KiCad` · `LoRaWAN` · `ChirpStack` · `Node-RED` · `CAN` · `RS-485` · `KNX`
+
+---
 
 <div align="center">
 
-`Embedded firmware` · `Multi-layer PCBs` · `Sensor interfaces` · `Industrial controllers` · `UAV electronics` · `IoT hardware`
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0f766e,100:14b8a6"/>
+[LinkedIn](https://www.linkedin.com/in/saleh-alhomeidy/) · [Email](mailto:salehalhomeidy@gmail.com)
 
 </div>
