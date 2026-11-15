@@ -10,4 +10,4 @@ I got into electronics through flight simulators. That interest drew me to avion
 
 `C` · `FreeRTOS` · `Altium` · `KiCad` · `LTspice` · `Linux` · `CAN` · `RS-485`
 
-[LinkedIn](https://www.linkedin.com/in/saleh-alhomeidy/) · [Email](mailto:salehalhomeidy@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/salehalhomeidy/) · [Email](mailto:salehalhomeidy@gmail.com)
