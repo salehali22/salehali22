@@ -1,26 +1,23 @@
-Engineering student at **JUNIA ISEN, Lille** · Microelectronics
+![Saleh Alhomeidy | Embedded electronics and hardware design](./banner.svg)
 
-I design and test electronics for industrial systems. At **eBuilding.ge**, I designed power circuits and routed a multilayer PCB for an industrial controller, then helped deploy and test a LoRaWAN network with more than 50 nodes.
+Engineering student at **JUNIA ISEN, Lille**. At **eBuilding.ge**, I designed and tested production electronics for building automation.
 
-**→ Seeking a 12-week internship from early May 2027** in embedded systems, hardware design, or avionics.
+**↗ Seeking a 12-week internship from early May 2027** in embedded electronics, avionics, or satellite systems.
 
----
+### ◈ Featured work
 
-### ◈ Selected work
+<a href="https://github.com/salehali22/ICU-Showcase"><img src="./controller.png" width="600" alt="Angled 3D render of the ICU-REV-B industrial controller PCB"></a>
 
 **[Industrial control unit](https://github.com/salehali22/ICU-Showcase)**  
-Power-stage design, PCB layout, and prototype testing. A low-power mode reduced idle current from about **80 mA to 10 mA**. I coordinated deployment across **five sites**.
+Designed the power stage, routed the PCB, and tested prototypes. Idle current fell from **about 80 mA to 10 mA** with a low-power mode. I coordinated rollout across **five sites**.
 
-**[45 nm CMOS op-amp](https://github.com/salehali22/leaf-bioimpedance-opamp)**  
-Designed and laid out a two-stage amplifier in Cadence Virtuoso. A compensation change increased simulated phase margin from **20.8° to 66.4°**.
+| Project | My contribution |
+| --- | --- |
+| [45 nm CMOS op-amp](https://github.com/salehali22/leaf-bioimpedance-opamp) | Designed and laid out a two-stage amplifier. Improved simulated phase margin from **20.8° to 66.4°**. |
+| [SAL-FC flight controller](https://github.com/salehali22/SAL-FC) | Led the capstone team and contributed to PCB design and firmware porting. |
 
-**[SAL-FC flight controller](https://github.com/salehali22/SAL-FC)**  
-Led the capstone team and contributed to PCB design and firmware porting. My interest in avionics started with flight simulators.
-
-### ⌘ Tools I use
+### ⌘ Tools
 
 `Altium Designer` · `KiCad` · `C` · `FreeRTOS` · `Cadence Virtuoso` · `Linux`
 
-### ↗ Find me
-
-[LinkedIn](https://www.linkedin.com/in/salehalhomeidy) · [Email](mailto:salehalhomeidy@gmail.com)
+**↗ [LinkedIn](https://www.linkedin.com/in/salehalhomeidy)** · **[Email](mailto:salehalhomeidy@gmail.com)**
