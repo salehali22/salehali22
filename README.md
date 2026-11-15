@@ -8,6 +8,6 @@ Engineering student at JUNIA ISEN, Lille, specialising in embedded systems and m
 
 I got into electronics through flight. I have 4,000+ hours in flight simulators, and that's where my interest in avionics started. I love simulating systems before building them and testing whether an idea actually holds up.
 
-`C` · `FreeRTOS` · `Altium` · `KiCad` · `LTspice` · `Linux` · `CAN` · `RS-485`
+`C` · `C++` · `FreeRTOS` · `Altium` · `KiCad` · `Cadence Virtuoso` · `COMSOL` · `Qucs-S` · `Linux`
 
 [LinkedIn](https://www.linkedin.com/in/saleh-alhomeidy/) · [Email](mailto:salehalhomeidy@gmail.com)
